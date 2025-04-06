@@ -22,7 +22,7 @@ int main()
    logsystem::logsrecord("Start program FATAL_ERROR !!!", logsystem::FATAL_ERROR);
    return 0;
 }
-```cpp
+```
 
 Out file
 logs\log.log
