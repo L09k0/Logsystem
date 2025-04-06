@@ -23,7 +23,7 @@ int main()
    return 0;
 }
 ```
-
+```
 Out file
 logs\log.log
 
@@ -31,3 +31,4 @@ DEBUG: 10:56:32 Start program Debug !
 WARNING: 10:56:32 Start program warning !
 ERROR: 10:56:32 Start program Error !
 FATAL_ERROR: 10:56:32 Start program FATAL_ERROR !!!
+```
